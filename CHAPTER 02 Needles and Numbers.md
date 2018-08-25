@@ -1,4 +1,5 @@
-# CHAPTER 2 Needles and Numbers 第2章 指针和数字
+# CHAPTER 2 Needles and Numbers
+# 第2章 指针和数字
 
 Keep on traveling eastwards from Babylon and Egypt and you'll find lands where ancient civilizations flourished on either side of the rocky Himalayas, in India and China. Some 5,000 years ago people were living there in towns and cities ranged along the Indus and Yellow River valleys. In those days, India and China were both immense territories, even larger than they are today. Both were part of vast overland and overseas trading networks – channeled along the spice routes - and their people had developed writing and science to a high level. The one helped the other: science benefited trade, and the wealth from trade allowed the luxury of study. In fact until about 1500, science in each of these civilizations was at least as advanced as in Europe. India gave us our numbers and a love of mathematics. From China came paper and gunpowder and that indispensable gadget for navigation: the compass.
 
