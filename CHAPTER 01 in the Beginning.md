@@ -1,4 +1,5 @@
-# CHAPTER 1 In the Beginning 第1章 在最初的时候
+# CHAPTER 1 In the Beginning
+# 第1章 在最初的时候
 
 Science is special. It's the best way we have of finding out about the world and everything in it - and that includes us.
 
