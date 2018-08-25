@@ -1,4 +1,5 @@
-# CHAPTER 3 Atoms and the Void 第3章 原子和虚空
+# CHAPTER 3 Atoms and the Void
+# 第3章 原子和虚空
 
 In about 454 BC, the Greek historian Herodotus (c. 485-425 BC) visited Egypt. Just like us, he was astonished by the Pyramids, and by the gigantic statues - sixty feet tall - at Thebes further up the Nile. He could not quite believe just how old everything was. Egypt's glory had passed and it had already long ago been overrun by the Persians. Herodotus was living in a much younger, more vigorous society that was still on the up, and one that would conquer Egypt a century later under Alexander the Great (356-323 BC).
 
