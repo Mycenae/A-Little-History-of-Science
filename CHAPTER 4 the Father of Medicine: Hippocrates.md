@@ -1,4 +1,5 @@
-# CHAPTER 4 the Father of Medicine: Hippocrates 第4章 医学之父：希波克拉底
+# CHAPTER 4 the Father of Medicine: Hippocrates
+# 第4章 医学之父：希波克拉底
 
 The next time you have to see the doctor, ask if he or she took the Hippocratic Oath at their graduation ceremony. Not all modern medical schools require their students to recite it, but some do, and this oath, written more than 2,000 years ago, has something to say to us still. We shall see what that is shortly.
 
