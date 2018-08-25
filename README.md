@@ -1,6 +1,8 @@
 # A-Little-History-of-Science
 A translation project of "A little history of science"
 
+I read and translated this book in the year 2017, all by myself, without any intension. It meant a lot to me, so I put it in Github to memorize it. It completed my interest in history, and transferred it to my old profession. If the author find this translation someday, hope you will grant this. 
+
 |Contents|目录|
 |---|---|
 |CHAPTER 1 In the Beginning|第1章 在最初的时候|
