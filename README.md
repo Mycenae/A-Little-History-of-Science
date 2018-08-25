@@ -1,2 +1,2 @@
 # A-Little-History-of-Science
-translation project
+A translation project of <A little history of science>
